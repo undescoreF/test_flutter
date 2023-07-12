@@ -5,7 +5,7 @@
    - </b>Flutter SDK : Instructions d'installation Flutter\
    - Dart SDK : Instructions d'installation Dart\
 # Cloner et lancer  le projet     
-   - git clone <URL du dépôt Git> 
+   - git clone https://github.com/undescoreF/test_flutter.git 
    - Lancement de l'appli :faire un <b>pub get && flutter run</b>
 
 Temps mis : 2 jours(lundi et mardi)\
